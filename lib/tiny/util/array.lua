@@ -1,10 +1,10 @@
 -- 封装一些与数组有关的操作
 -- @verson 1.0
--- @author 拐 <geyf@knowbox.cn>
+-- @author 拐 <geyunfei@gmail.com>
 -- @date Oct 10th,2018
 
 local M = {}
-M._VERSION = "1.0"
+M._VERSION = "0.1"
 
 local mt = { __index = M }
 
